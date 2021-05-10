@@ -1,4 +1,4 @@
-# Assignment One - C Shell
+# C Shell
 ## Amardeep Singh
 
 Compile: 
