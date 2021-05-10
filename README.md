@@ -10,6 +10,12 @@ Run:
 Discription:
 This program is a simple copy of Bash.
 
+Functionality:
+- All basic bash commands
+- Multiple i/o redirections
+- Backgrounding 
+- Piping
+
 Assumptions:
     All special commands (<, >, |, &) will have a space before and after.
     No command ends with a <, >, |
